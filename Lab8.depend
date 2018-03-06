@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1493080602 source:c:\users\simon\desktop\programming\c++\lab8\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<iostream>
+	<iomanip>
+	<vector>
+
